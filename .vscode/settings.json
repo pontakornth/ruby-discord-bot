@@ -1,0 +1,5 @@
+{
+    "ruby.intellisense": "rubyLocate",
+    "ruby.useLanguageServer": true,
+    "solargraph.formatting": true
+}
